@@ -8,5 +8,6 @@
 int main()
 {
     std::cout << "Hello World!!!!\n";
+    std::cout << "Here's a number: " << 3.14159 << std::endl;
 }
 
